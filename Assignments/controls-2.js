@@ -36,3 +36,8 @@ console.log(confirmAge(21))
 console.log(confirmAge(13))
 console.log(confirmAge(12))
 console.log(typeof []);
+
+function gitTest() {
+  console.log("This is just to test git")
+}
+gitTest()
